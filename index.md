@@ -24,3 +24,5 @@ My GitHub repositories:
 ### Source management
 
 + [Git](http://www.git-scm.com) - fast and powerful version control system
++ [GitLab](https://about.gitlab.com) - tool for git repository management and code reviews
++ [Integrity](http://integrity.github.io) - simple continuous integration server
