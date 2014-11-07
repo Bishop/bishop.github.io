@@ -1,2 +1,10 @@
 safe: true
 encoding: utf-8
+
+title: Bishop's site
+
+twitter_username: un_name
+github_username:  Bishop
+
+# Build settings
+markdown: kramdown
